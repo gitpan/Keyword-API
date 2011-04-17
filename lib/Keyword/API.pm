@@ -1,6 +1,6 @@
 package Keyword::API;
 BEGIN {
-  $Keyword::API::VERSION = '0.0001';
+  $Keyword::API::VERSION = '0.0002';
 }
 use 5.012;
 use strict;
@@ -33,7 +33,7 @@ Keyword::API
 
 =head1 VERSION
 
-version 0.0001
+version 0.0002
 
 =head1 SYNOPSIS
 

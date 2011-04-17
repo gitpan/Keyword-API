@@ -19,5 +19,6 @@ requires:
   perl: 5.012
 resources:
   bugtracker: https://github.com/robinedwards/Keyword-API/issues
+  homepage: http://search.cpan.org/dist/Keyword-API/
   repository: git://github.com/robinedwards/Keyword-API.git
-version: 0.0001
+version: 0.0002
