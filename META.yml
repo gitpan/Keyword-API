@@ -1,0 +1,23 @@
+---
+abstract: 'Perl interface to the keyword API'
+author:
+  - 'Robin Edwards <robin.ge@gmail.com>'
+build_requires:
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.31
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.102341, CPAN::Meta::Converter version 2.102400'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Keyword-API
+requires:
+  Exporter: 0
+  XSLoader: 0
+  perl: 5.012
+resources:
+  bugtracker: https://github.com/robinedwards/Keyword-API/issues
+  repository: git://github.com/robinedwards/Keyword-API.git
+version: 0.0001
