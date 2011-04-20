@@ -25,7 +25,7 @@ my %WriteMakefileArgs = (
     'Exporter' => '0',
     'XSLoader' => '0'
   },
-  'VERSION' => '0.0003',
+  'VERSION' => '0.0004',
   'test' => {
     'TESTS' => 't/*.t'
   }

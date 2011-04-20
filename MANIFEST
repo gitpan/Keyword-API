@@ -6,7 +6,6 @@ META.json
 META.yml
 Makefile.PL
 README
-README.mkdn
 dist.ini
 lib/Keyword/API.pm
 t/00-use.t

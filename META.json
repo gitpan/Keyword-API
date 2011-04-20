@@ -4,7 +4,7 @@
       "Robin Edwards <robin.ge@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.102341, CPAN::Meta::Converter version 2.102400",
+   "generated_by" : "Dist::Zilla version 4.200004, CPAN::Meta::Converter version 2.110440",
    "license" : [
       "perl_5"
    ],
@@ -33,17 +33,6 @@
       }
    },
    "release_status" : "stable",
-   "resources" : {
-      "bugtracker" : {
-         "web" : "https://github.com/robinedwards/Keyword-API/issues"
-      },
-      "homepage" : "http://search.cpan.org/dist/Keyword-API/",
-      "repository" : {
-         "type" : "git",
-         "url" : "git://github.com/robinedwards/Keyword-API.git",
-         "web" : "https://github.com/robinedwards/Keyword-API"
-      }
-   },
-   "version" : "0.0003"
+   "version" : "0.0004"
 }
 
